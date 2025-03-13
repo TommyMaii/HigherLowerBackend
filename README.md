@@ -1,1 +1,1 @@
-I use an .env file that contains a database connection string. I've used Render to host my postgres database which has a DATABASE_URL={EXTERNAL_URL}. You can also use a normal pool if you're hosting your postgres database locally.
+I have split my project into 2 different parts to more easily host it, please visit https://github.com/TommyMaii/HigherLowerVue/tree/master for a full readme.
